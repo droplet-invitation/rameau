@@ -7,3 +7,6 @@
 ```
 
 ## Build & Deploy (using GitHub Page)
+``` 
+  npm run deploy
+```
