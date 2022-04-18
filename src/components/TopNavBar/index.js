@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useEffect } from "react";
 import media from '../../shared/mediaQuery';
 import { css } from '@emotion/css';
+const { kakao } = window;
 
 const topNavBar = css`
   height: 60px;
@@ -9,6 +10,7 @@ const topNavBar = css`
   color: #ffffff;
   ${media.mobile} {
     height: 48px;
+    line-height: 48px;
   }
 `;
 
