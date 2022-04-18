@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rameau/static/css/main.073c9b0a.css",
-    "main.js": "/rameau/static/js/main.e883037f.js",
+    "main.js": "/rameau/static/js/main.f9eed021.js",
     "static/js/787.41dc12de.chunk.js": "/rameau/static/js/787.41dc12de.chunk.js",
     "static/media/logo.svg": "/rameau/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/rameau/index.html",
     "main.073c9b0a.css.map": "/rameau/static/css/main.073c9b0a.css.map",
-    "main.e883037f.js.map": "/rameau/static/js/main.e883037f.js.map",
+    "main.f9eed021.js.map": "/rameau/static/js/main.f9eed021.js.map",
     "787.41dc12de.chunk.js.map": "/rameau/static/js/787.41dc12de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e883037f.js"
+    "static/js/main.f9eed021.js"
   ]
 }
