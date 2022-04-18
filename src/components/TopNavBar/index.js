@@ -7,6 +7,9 @@ const topNavBar = css`
   line-height: 60px;
   background-color: rgb(58, 64, 42);
   color: #ffffff;
+  ${media.mobile} {
+    height: 48px;
+  }
 `;
 
 const TopNavBar = () => {
