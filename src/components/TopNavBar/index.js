@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import media from '../../shared/mediaQuery';
 import { css } from '@emotion/css';
-const { kakao } = window;
 
 const topNavBar = css`
   height: 60px;

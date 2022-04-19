@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import TopNavBar from './components/TopNavBar';
 import Map from './components/Map'
+import GuestBook from './components/GuestBook'
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
       <TopNavBar />
       <Map />
+      <GuestBook />
     </div>
   );
 }
