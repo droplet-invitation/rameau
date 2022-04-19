@@ -6,9 +6,13 @@ const { kakao } = window;
 
 const mapStyle = css`
   .map {
-    width: 500px;
+    margin: 0 auto;
+    width: 1080px;
     height: 500px;
-    border: solid 1px;
+    ${media.mobile} {
+      width: 100%;
+      height: 200px;
+    }
   }
 `;
 
