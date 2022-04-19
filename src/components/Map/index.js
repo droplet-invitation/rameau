@@ -16,8 +16,8 @@ const Map = () => {
   useEffect(() => {
     let container = document.getElementById("map");
     let options = {
-      center: new window.kakao.maps.LatLng(35.85133, 127.734086),
-      level: 13,
+			center: new kakao.maps.LatLng(33.450701, 126.570667),
+			level: 3
     };
     let map = new window.kakao.maps.Map(container, options);
     console.log("loading kakaomap");
@@ -25,7 +25,6 @@ const Map = () => {
 
   return (
     <div className={mapStyle}>
-      박유진 ♥ 장동선 결혼합니다.
       <div>
         <div id="map" className="map">
         </div>
