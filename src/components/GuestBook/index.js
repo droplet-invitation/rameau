@@ -8,11 +8,13 @@ const guestBookStyle = css`
   .guest-book-form {
     width: 720px;
     margin: 0 auto;
+    border: solid 1px;
     &__title {
       font-size: 18px;
       text-align: center;
     }
     &__button {
+      margin: 20px 20px;
       display: block;
       width: 100%;
       height: 48px;
