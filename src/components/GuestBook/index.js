@@ -16,6 +16,7 @@ const guestBookStyle = css`
     }
     &__input {
       margin-right: 20px;
+      margin-bottom: 20px;
       width: 45%;
       height: 48px;
       border: solid 1px;
