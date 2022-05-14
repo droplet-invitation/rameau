@@ -36,6 +36,7 @@ const topNavBar = css`
 `;
 
 const TopNavBar = () => {
+  const img = require('./main.png')
   return (
     <div className={topNavBar}>
       <div className="date">
@@ -44,7 +45,7 @@ const TopNavBar = () => {
       <div className="title">
         장동선 & 박유진
       </div>
-      <img src="./main.png" alt="top" />
+      <img src={img} alt="top" />
     </div>
   );
 }
