@@ -29,8 +29,12 @@ const topNavBar = css`
       }
       ${media.mobile} {
         font-size: 20.5px;
+        font-family: 'Cafe24Oneprettynight';
   
       }
+    }
+    .img {
+      width: 100%;
     }
   }
 `;
@@ -45,7 +49,7 @@ const TopNavBar = () => {
       <div className="title">
         장동선 & 박유진
       </div>
-      <img src={img} alt="top" />
+      <img className="img" src={img} alt="top" />
     </div>
   );
 }
