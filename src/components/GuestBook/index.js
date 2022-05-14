@@ -1,5 +1,5 @@
-import React, { useEffect } from "react";
-import media from '../../shared/mediaQuery';
+import React from "react";
+// import media from '../../shared/mediaQuery';
 import { css } from '@emotion/css';
 
 const guestBookStyle = css`

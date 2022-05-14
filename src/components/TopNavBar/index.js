@@ -1,8 +1,9 @@
-import React, { useEffect } from "react";
+import React from "react";
 import media from '../../shared/mediaQuery';
 import { css } from '@emotion/css';
 
 const topNavBar = css`
+  font-family: 'Cafe24Oneprettynight';
   height: 60px;
   line-height: 60px;
   background-color: rgb(58, 64, 42);

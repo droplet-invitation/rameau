@@ -1,5 +1,6 @@
-import React, { useEffect } from "react";
+import React from "react";
 import media from '../../shared/mediaQuery';
+// import styled from '../../shared/styled';
 import { css } from '@emotion/css';
 
 const topNavBar = css`
@@ -25,6 +26,7 @@ const topNavBar = css`
     .title {
       ${media.desktop} {
         font-size: 60px;
+        font-family: 'Cafe24Oneprettynight';
   
       }
       ${media.mobile} {

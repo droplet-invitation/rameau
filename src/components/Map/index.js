@@ -1,4 +1,3 @@
-/* global kakao */
 import React, { useEffect } from "react";
 import media from '../../shared/mediaQuery';
 import { css } from '@emotion/css';
@@ -23,7 +22,7 @@ const Map = () => {
 			center: new kakao.maps.LatLng(33.450701, 126.570667),
 			level: 3
     };
-    let map = new window.kakao.maps.Map(container, options);
+    new window.kakao.maps.Map(container, options);
     console.log("loading kakaomap");
   }, []);
 
