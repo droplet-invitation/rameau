@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rameau/static/css/main.073c9b0a.css",
-    "main.js": "/rameau/static/js/main.054806d8.js",
+    "main.js": "/rameau/static/js/main.1439ae2c.js",
     "static/js/787.41dc12de.chunk.js": "/rameau/static/js/787.41dc12de.chunk.js",
     "static/media/img7.jpeg": "/rameau/static/media/img7.6214ab2c4b74f2f5ce5d.jpeg",
     "static/media/img4.jpeg": "/rameau/static/media/img4.2b242c643466ac30bc13.jpeg",
@@ -14,18 +14,19 @@
     "static/media/content.jpg": "/rameau/static/media/content.d0202a6e22ad98324f56.jpg",
     "static/media/img3.jpeg": "/rameau/static/media/img3.3027e625db7e71c92f57.jpeg",
     "static/media/footer.jpg": "/rameau/static/media/footer.6d0e0c2467062fa2ddbd.jpg",
-    "static/media/title.jpg": "/rameau/static/media/title.4f95b53b7722be01ebce.jpg",
+    "static/media/title.jpg": "/rameau/static/media/title.3de0c54572dd90e2fea3.jpg",
+    "static/media/share.jpg": "/rameau/static/media/share.70e31a6280e5d98150d9.jpg",
     "static/media/money.jpg": "/rameau/static/media/money.9269cba4fe18c98703d6.jpg",
     "static/media/call.jpg": "/rameau/static/media/call.9636d4cc60200bfcc42e.jpg",
     "static/media/male.png": "/rameau/static/media/male.1a42ba5d2fedf299925a.png",
     "static/media/female.png": "/rameau/static/media/female.5fadc396c99000d1f162.png",
     "index.html": "/rameau/index.html",
     "main.073c9b0a.css.map": "/rameau/static/css/main.073c9b0a.css.map",
-    "main.054806d8.js.map": "/rameau/static/js/main.054806d8.js.map",
+    "main.1439ae2c.js.map": "/rameau/static/js/main.1439ae2c.js.map",
     "787.41dc12de.chunk.js.map": "/rameau/static/js/787.41dc12de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.054806d8.js"
+    "static/js/main.1439ae2c.js"
   ]
 }
