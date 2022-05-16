@@ -21,6 +21,7 @@ const topNavBar = css`
       height: calc((100vw - 40px) / 3);
       margin-bottom: 10px;
       padding: 0;
+      border: none;
       .img-preview {
         width: 100%;
         height: 100%;
@@ -45,8 +46,8 @@ const imgGallery = () => {
   let currnetImg = '';
   let showImg = false;
   const activateButton = (index) => {
+    console.log('click: ', index)
     showImg = !showImg;
-    currnetImg = img[index]
   };
 
   
@@ -65,6 +66,9 @@ const imgGallery = () => {
       <button onClick={activateButton(3)} className="img-button">
         <img className="img-preview" src={img[3]} alt="top" />
       </button>
+      <button onClick={activateButton(8)} className="img-button">
+        <img className="img-preview" src={img[8]} alt="top" />
+      </button>
       <button onClick={activateButton(4)} className="img-button">
         <img className="img-preview" src={img[4]} alt="top" />
       </button>
@@ -76,9 +80,6 @@ const imgGallery = () => {
       </button>
       <button onClick={activateButton(7)} className="img-button">
         <img className="img-preview" src={img[7]} alt="top" />
-      </button>
-      <button onClick={activateButton(8)} className="img-button">
-        <img className="img-preview" src={img[8]} alt="top" />
       </button>
 
 
