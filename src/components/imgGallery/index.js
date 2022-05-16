@@ -63,12 +63,6 @@ const ImgGallery = () => {
     require('./img9.jpeg')
   ]
 
-  const activateButton = (e) => {
-    e.preventDefault();
-    setChecked(!checked);
-    console.log('The link was clicked.: ', e);
-  };
-
   const deleteRow = (index) => {
     setChecked(!checked);
     setImg(img[index]);
