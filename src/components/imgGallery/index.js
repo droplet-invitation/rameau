@@ -19,7 +19,6 @@ const topNavBar = css`
       display: block;
       width: calc((100% - 40px) / 3);
       height: calc((100vw - 40px) / 3);
-      border: solid 1px;
       margin-bottom: 10px;
       padding: 0;
       .img-preview {

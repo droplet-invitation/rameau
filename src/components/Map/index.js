@@ -13,7 +13,7 @@ const mapStyle = css`
     height: 500px;
     ${media.mobile} {
       width: 100%;
-      height: 200px;
+      height: 250px;
     }
   }
 `;
@@ -23,7 +23,7 @@ const Map = () => {
   useEffect(() => {
     let container = document.getElementById("map");
     let options = {
-			center: new kakao.maps.LatLng(33.450701, 126.570667),
+			center: new kakao.maps.LatLng(37.5214918, 127.0354608),
 			level: 3
     };
     new window.kakao.maps.Map(container, options);
