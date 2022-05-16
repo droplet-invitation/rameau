@@ -1,7 +1,7 @@
 import './App.css';
 import TopNavBar from './components/TopNavBar';
 // import MainImg from './components/MainImg';
-// import Map from './components/Map'
+import Map from './components/Map'
 // import GuestBook from './components/GuestBook'
 import ImgGallery from './components/imgGallery'
 
@@ -12,6 +12,8 @@ function App() {
     <div className="App">
       <TopNavBar />
       <ImgGallery />
+      <Map />
+      
     </div>
   );
 }

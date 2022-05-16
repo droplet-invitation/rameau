@@ -15,10 +15,17 @@ const topNavBar = css`
     display: flex;
     background-color: #ffffff;
     margin-top: 30px;
-    .img-preview {
+    .img-button {
+      display: block;
       width: calc((100% - 40px) / 3);
       height: calc((100vw - 40px) / 3);
+      border: solid 1px;
       margin-bottom: 10px;
+      padding: 0;
+      .img-preview {
+        width: 100%;
+        height: 100%;
+      }
     }
   }
 `;
@@ -36,19 +43,46 @@ const imgGallery = () => {
     require('./img9.jpeg')
   ]
 
+  let currnetImg = '';
+  let showImg = false;
+  const activateButton = (index) => {
+    showImg = !showImg;
+    currnetImg = img[index]
+  };
+
   
 
   return (
     <div className={topNavBar}>
-      <img className="img-preview" src={img[0]} alt="top" />
-      <img className="img-preview" src={img[1]} alt="top" />
-      <img className="img-preview" src={img[2]} alt="top" />
-      <img className="img-preview" src={img[3]} alt="top" />
-      <img className="img-preview" src={img[4]} alt="top" />
-      <img className="img-preview" src={img[5]} alt="top" />
-      <img className="img-preview" src={img[6]} alt="top" />
-      <img className="img-preview" src={img[7]} alt="top" />
-      <img className="img-preview" src={img[8]} alt="top" />
+      <button onClick={activateButton(0)} className="img-button">
+        <img className="img-preview" src={img[0]} alt="top" />
+      </button>
+      <button onClick={activateButton(1)} className="img-button">
+        <img className="img-preview" src={img[1]} alt="top" />
+      </button>
+      <button onClick={activateButton(2)} className="img-button">
+        <img className="img-preview" src={img[2]} alt="top" />
+      </button>
+      <button onClick={activateButton(3)} className="img-button">
+        <img className="img-preview" src={img[3]} alt="top" />
+      </button>
+      <button onClick={activateButton(4)} className="img-button">
+        <img className="img-preview" src={img[4]} alt="top" />
+      </button>
+      <button onClick={activateButton(5)} className="img-button">
+        <img className="img-preview" src={img[5]} alt="top" />
+      </button>
+      <button onClick={activateButton(6)} className="img-button">
+        <img className="img-preview" src={img[6]} alt="top" />
+      </button>
+      <button onClick={activateButton(7)} className="img-button">
+        <img className="img-preview" src={img[7]} alt="top" />
+      </button>
+      <button onClick={activateButton(8)} className="img-button">
+        <img className="img-preview" src={img[8]} alt="top" />
+      </button>
+
+
     </div>
   );
 }

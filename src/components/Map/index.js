@@ -4,6 +4,9 @@ import { css } from '@emotion/css';
 const { kakao } = window;
 
 const mapStyle = css`
+  .title {
+    width: 100%;
+  }
   .map {
     margin: 0 auto;
     width: 1080px;
@@ -16,6 +19,7 @@ const mapStyle = css`
 `;
 
 const Map = () => {
+  const title = require('./title.jpg');
   useEffect(() => {
     let container = document.getElementById("map");
     let options = {
@@ -28,6 +32,7 @@ const Map = () => {
 
   return (
     <div className={mapStyle}>
+      <img src={title} className="title" />
       <div>
         <div id="map" className="map">
         </div>
