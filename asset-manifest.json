@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rameau/static/css/main.073c9b0a.css",
-    "main.js": "/rameau/static/js/main.59f39692.js",
+    "main.js": "/rameau/static/js/main.b24a4dfc.js",
     "static/js/787.41dc12de.chunk.js": "/rameau/static/js/787.41dc12de.chunk.js",
     "static/media/main1.jpg": "/rameau/static/media/main1.25f47b56b83c1957ab4d.jpg",
     "static/media/img7.jpeg": "/rameau/static/media/img7.6214ab2c4b74f2f5ce5d.jpeg",
@@ -17,11 +17,11 @@
     "static/media/title.jpg": "/rameau/static/media/title.4f95b53b7722be01ebce.jpg",
     "index.html": "/rameau/index.html",
     "main.073c9b0a.css.map": "/rameau/static/css/main.073c9b0a.css.map",
-    "main.59f39692.js.map": "/rameau/static/js/main.59f39692.js.map",
+    "main.b24a4dfc.js.map": "/rameau/static/js/main.b24a4dfc.js.map",
     "787.41dc12de.chunk.js.map": "/rameau/static/js/787.41dc12de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.59f39692.js"
+    "static/js/main.b24a4dfc.js"
   ]
 }
