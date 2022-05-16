@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rameau/static/css/main.073c9b0a.css",
-    "main.js": "/rameau/static/js/main.fb27d246.js",
+    "main.js": "/rameau/static/js/main.1acb8e00.js",
     "static/js/787.41dc12de.chunk.js": "/rameau/static/js/787.41dc12de.chunk.js",
     "static/media/img7.jpeg": "/rameau/static/media/img7.6214ab2c4b74f2f5ce5d.jpeg",
     "static/media/img4.jpeg": "/rameau/static/media/img4.2b242c643466ac30bc13.jpeg",
@@ -14,7 +14,16 @@
     "static/media/content.jpg": "/rameau/static/media/content.d0202a6e22ad98324f56.jpg",
     "static/media/img3.jpeg": "/rameau/static/media/img3.3027e625db7e71c92f57.jpeg",
     "static/media/main.jpg": "/rameau/static/media/main.cfd76e674e89bce3a003.jpg",
+    "static/media/imgPrev9.jpeg": "/rameau/static/media/imgPrev9.be8b78436df63cdae9f5.jpeg",
+    "static/media/imgPrev6.jpeg": "/rameau/static/media/imgPrev6.b9fe16e5d9bb4f5ee931.jpeg",
+    "static/media/imgPrev2.jpeg": "/rameau/static/media/imgPrev2.d5d09098822307fabb48.jpeg",
+    "static/media/imgPrev4.jpeg": "/rameau/static/media/imgPrev4.7681e8fb9e9a40302f87.jpeg",
+    "static/media/imgPrev1.jpeg": "/rameau/static/media/imgPrev1.9e1447ffda3b00028d87.jpeg",
+    "static/media/imgPrev5.jpeg": "/rameau/static/media/imgPrev5.2768822fb4b2cb7d433f.jpeg",
+    "static/media/imgPrev3.jpeg": "/rameau/static/media/imgPrev3.62bc846060d2b38eec86.jpeg",
     "static/media/footer.jpg": "/rameau/static/media/footer.6d0e0c2467062fa2ddbd.jpg",
+    "static/media/imgPrev7.jpeg": "/rameau/static/media/imgPrev7.87925767d9f69eebb325.jpeg",
+    "static/media/imgPrev8.jpeg": "/rameau/static/media/imgPrev8.d5d14483d95afc698cae.jpeg",
     "static/media/title.jpg": "/rameau/static/media/title.3de0c54572dd90e2fea3.jpg",
     "static/media/share.jpg": "/rameau/static/media/share.70e31a6280e5d98150d9.jpg",
     "static/media/money.jpg": "/rameau/static/media/money.9269cba4fe18c98703d6.jpg",
@@ -23,11 +32,11 @@
     "static/media/female.png": "/rameau/static/media/female.5fadc396c99000d1f162.png",
     "index.html": "/rameau/index.html",
     "main.073c9b0a.css.map": "/rameau/static/css/main.073c9b0a.css.map",
-    "main.fb27d246.js.map": "/rameau/static/js/main.fb27d246.js.map",
+    "main.1acb8e00.js.map": "/rameau/static/js/main.1acb8e00.js.map",
     "787.41dc12de.chunk.js.map": "/rameau/static/js/787.41dc12de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fb27d246.js"
+    "static/js/main.1acb8e00.js"
   ]
 }
