@@ -20,6 +20,7 @@ const mapStyle = css`
 
 const Map = () => {
   const title = require('./title.jpg');
+  const footer = require('./footer.jpg')
   useEffect(() => {
     let container = document.getElementById("map");
     let options = {
@@ -37,6 +38,7 @@ const Map = () => {
         <div id="map" className="map">
         </div>
       </div>
+      <img src={footer} className="title" />
     </div>
   );
 }
