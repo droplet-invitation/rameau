@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/rameau/static/css/main.073c9b0a.css",
-    "main.js": "/rameau/static/js/main.cc280c22.js",
+    "main.js": "/rameau/static/js/main.94be21b1.js",
     "static/js/787.41dc12de.chunk.js": "/rameau/static/js/787.41dc12de.chunk.js",
-    "static/media/main1.jpg": "/rameau/static/media/main1.25f47b56b83c1957ab4d.jpg",
     "static/media/img7.jpeg": "/rameau/static/media/img7.6214ab2c4b74f2f5ce5d.jpeg",
     "static/media/img4.jpeg": "/rameau/static/media/img4.2b242c643466ac30bc13.jpeg",
     "static/media/img8.jpeg": "/rameau/static/media/img8.35c978dab4a0b8b9ecc0.jpeg",
@@ -12,16 +11,20 @@
     "static/media/img6.jpeg": "/rameau/static/media/img6.e87d88576b166b44bc10.jpeg",
     "static/media/img5.jpeg": "/rameau/static/media/img5.8067f7bd4ea15e737e2e.jpeg",
     "static/media/img9.jpeg": "/rameau/static/media/img9.b089413091511c5d95dc.jpeg",
+    "static/media/content.jpg": "/rameau/static/media/content.d0202a6e22ad98324f56.jpg",
     "static/media/img3.jpeg": "/rameau/static/media/img3.3027e625db7e71c92f57.jpeg",
-    "static/media/footer.jpg": "/rameau/static/media/footer.bd0eba7ecbc77376873d.jpg",
+    "static/media/footer.jpg": "/rameau/static/media/footer.6d0e0c2467062fa2ddbd.jpg",
     "static/media/title.jpg": "/rameau/static/media/title.4f95b53b7722be01ebce.jpg",
+    "static/media/call.jpg": "/rameau/static/media/call.9636d4cc60200bfcc42e.jpg",
+    "static/media/male.png": "/rameau/static/media/male.1a42ba5d2fedf299925a.png",
+    "static/media/female.png": "/rameau/static/media/female.5fadc396c99000d1f162.png",
     "index.html": "/rameau/index.html",
     "main.073c9b0a.css.map": "/rameau/static/css/main.073c9b0a.css.map",
-    "main.cc280c22.js.map": "/rameau/static/js/main.cc280c22.js.map",
+    "main.94be21b1.js.map": "/rameau/static/js/main.94be21b1.js.map",
     "787.41dc12de.chunk.js.map": "/rameau/static/js/787.41dc12de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cc280c22.js"
+    "static/js/main.94be21b1.js"
   ]
 }
