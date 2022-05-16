@@ -3,7 +3,7 @@ import TopNavBar from './components/TopNavBar';
 // import MainImg from './components/MainImg';
 import Map from './components/Map'
 // import GuestBook from './components/GuestBook'
-import ImgGallery from './components/imgGallery'
+import ImgGallery from './components/ImgGallery'
 
 
 function App() {

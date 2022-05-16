@@ -33,12 +33,12 @@ const Map = () => {
 
   return (
     <div className={mapStyle}>
-      <img src={title} className="title" />
+      <img src={title} className="title" alt="33" />
       <div>
         <div id="map" className="map">
         </div>
       </div>
-      <img src={footer} className="title" />
+      <img src={footer} className="title" alt="00" />
     </div>
   );
 }
