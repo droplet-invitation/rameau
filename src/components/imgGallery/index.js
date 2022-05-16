@@ -41,6 +41,10 @@ const topNavBar = css`
       background-color: #000000;
       z-index: 5;
       &__full-img {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        transform: translateY(-50%);
         width: 100%;
       }
     }
@@ -62,6 +66,11 @@ const ImgGallery = () => {
     require('./img8.jpeg'),
     require('./img9.jpeg')
   ]
+
+  const activateButton = (e) => {
+    e.preventDefault();
+    setChecked(!checked);
+  };
 
   const deleteRow = (index) => {
     setChecked(!checked);
