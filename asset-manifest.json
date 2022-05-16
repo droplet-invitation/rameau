@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rameau/static/css/main.073c9b0a.css",
-    "main.js": "/rameau/static/js/main.58392010.js",
+    "main.js": "/rameau/static/js/main.fb27d246.js",
     "static/js/787.41dc12de.chunk.js": "/rameau/static/js/787.41dc12de.chunk.js",
     "static/media/img7.jpeg": "/rameau/static/media/img7.6214ab2c4b74f2f5ce5d.jpeg",
     "static/media/img4.jpeg": "/rameau/static/media/img4.2b242c643466ac30bc13.jpeg",
@@ -13,6 +13,7 @@
     "static/media/img9.jpeg": "/rameau/static/media/img9.b089413091511c5d95dc.jpeg",
     "static/media/content.jpg": "/rameau/static/media/content.d0202a6e22ad98324f56.jpg",
     "static/media/img3.jpeg": "/rameau/static/media/img3.3027e625db7e71c92f57.jpeg",
+    "static/media/main.jpg": "/rameau/static/media/main.cfd76e674e89bce3a003.jpg",
     "static/media/footer.jpg": "/rameau/static/media/footer.6d0e0c2467062fa2ddbd.jpg",
     "static/media/title.jpg": "/rameau/static/media/title.3de0c54572dd90e2fea3.jpg",
     "static/media/share.jpg": "/rameau/static/media/share.70e31a6280e5d98150d9.jpg",
@@ -22,11 +23,11 @@
     "static/media/female.png": "/rameau/static/media/female.5fadc396c99000d1f162.png",
     "index.html": "/rameau/index.html",
     "main.073c9b0a.css.map": "/rameau/static/css/main.073c9b0a.css.map",
-    "main.58392010.js.map": "/rameau/static/js/main.58392010.js.map",
+    "main.fb27d246.js.map": "/rameau/static/js/main.fb27d246.js.map",
     "787.41dc12de.chunk.js.map": "/rameau/static/js/787.41dc12de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.58392010.js"
+    "static/js/main.fb27d246.js"
   ]
 }
